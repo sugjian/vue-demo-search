@@ -35,8 +35,7 @@ body {
   top: 35%;
   left: 50%;
   margin-left: -300px;
-  margin-top: -100px;
-}
+  margin-top: -100px;}
 
 </style>
 
